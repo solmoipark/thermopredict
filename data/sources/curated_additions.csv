@@ -1,0 +1,6 @@
+Name,Chemical_formula,G0d_J_per_mol,H0d_J_per_mol,S0d_J_per_K_mol,Cp0d_J_per_K_mol,V0d_cm3_per_mol,Ref
+Hydromagnesite,Mg5(OH)2(CO3)4(H2O)4,-5870184,-6516000,520,571.31,208.8,Thermoddem (BRGM); H/S: Koenigsberger et al. 1999; Cp/V: Helgeson et al. 1978
+Nesquehonite,MgCO3(H2O)3,-1723781,-1977300,195.6,239.35,74.79,Thermoddem (BRGM); H: Hemingway & Robie 1973; S: Robie & Hemingway 1972; Cp/V: Helgeson et al. 1978
+Artinite,Mg2(OH)2CO3(H2O)3,-2568352,-2920612,232.923,296.05,96.9,Thermoddem (BRGM); H: Hemingway & Robie 1973; Cp/V: Helgeson et al. 1978
+Ye'elimite,Ca4Al6O12(SO4),-7928590,-8382500,487,480,234.5,Lothenbach et al. 2022 CCR (ye'elimite thermodynamics; H/S/Cp measured); G derived from H and S with CODATA element entropies; V from Cuesta et al. 2013 cell parameters
+Ternesite,Ca5(SiO4)2(SO4),-5648200,-5993000,352.2,356.9,161.86,H: Skalamprinos et al. 2018 JTAC 131 2345-2359; S: Ghazizadeh et al. 2020 CCR volume-based estimate; V: Irran et al. 1997 cell (Z=4); Cp: additivity 2*C2S+CaSO4; G derived from H and S with CODATA element entropies

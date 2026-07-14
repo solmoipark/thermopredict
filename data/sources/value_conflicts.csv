@@ -1,0 +1,18 @@
+﻿legacy_Name,cemdata_Symbol,target,legacy_value,cemdata18_value
+Silicon dioxide (Silica),Qtz,V0d_cm3_per_mol,29.000001,22.688000202178998
+Calcite,Arg,V0d_cm3_per_mol,36.933999,34.150002002716
+Calcite,Arg,S0d_J_per_K_mol,92.675598,90.207038879395
+Al(OH)3  microcrystalline,AlOHam,S0d_J_per_K_mol,140.0,70.082000732422
+Calcium-Aluminium-Silicate-Hydrate ,INFCNA,V0d_cm3_per_mol,64.510002,69.3
+Siliceous iron hydrogarnet,C3FS1.34H3.32,S0d_J_per_K_mol,414.28848,820.0
+Hydrotalcite,,H0d_J_per_mol,-99485550.0,-9948560.0
+Hydrotalcite,,G0d_J_per_mol,-84971670.0,-8497170.0
+Hydrotalcite,,G0d_J_per_mol,-85196800.0,-8519680.0
+Potassium silicate hydrates,KSiOH,S0d_J_per_K_mol,48.400002,41.338001251221
+Potassium silicate hydrates,KSiOH,Cp0d_J_per_K_mol,40.599998,43.856700897217
+Potassium silicate hydrates,KSiOH,S0d_J_per_K_mol,48.400002,41.338001251221
+Potassium silicate hydrates,KSiOH,Cp0d_J_per_K_mol,40.599998,43.856700897217
+Potassium silicate hydrates,KSiOH,S0d_J_per_K_mol,48.400002,41.338001251221
+Potassium silicate hydrates,KSiOH,Cp0d_J_per_K_mol,40.599998,43.856700897217
+Zeolite-Mordenite,,G0d_J_per_mol,-616540.0,-6151940.0
+Zeolite-Mordenite,,S0d_J_per_K_mol,470.6,454.0

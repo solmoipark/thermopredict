@@ -1,0 +1,258 @@
+{
+ "substances": [
+  {
+   "Pst": 100000,
+   "TPMethods": [
+    {
+     "limitsTP": {
+      "lowerT": 273.15,
+      "range": true,
+      "upperT": 373.15
+     },
+     "m_heat_capacity_ft_coeffs": {
+      "names": [
+       "a0",
+       "a1",
+       "a2",
+       "a3",
+       "a4",
+       "a5",
+       "a6",
+       "a7",
+       "a8",
+       "a9",
+       "a10"
+      ],
+      "units": [
+       "J/(mol*K)",
+       "J/(mol*K^2)",
+       "(J*K)/mol",
+       "J/(mol*K^0.5)",
+       "J/(mol*K^3)",
+       "J/(mol*K^4)",
+       "J/(mol*K^5)",
+       "(J*K^2)/mol",
+       "J/mol",
+       "J/(mol*K^1.5)",
+       "J/(mol*K)"
+      ],
+      "values": [
+       664.28759765625,
+       1.0144499540329,
+       -1300000,
+       -800,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "method": {
+      "0": "cp_ft_equation"
+     }
+    },
+    {
+     "method": {
+      "34": "mv_constant"
+     }
+    }
+   ],
+   "Tst": 298.15,
+   "aggregate_state": {
+    "3": "AS_CRYSTAL"
+   },
+   "class_": {
+    "0": "SC_COMPONENT"
+   },
+   "datasources": [
+    "Georget et al. 2022 CCR 153 106692 (Table 5)"
+   ],
+   "formula": "(CaO)3Al2O3(CaCO3)0.5(CaO2H2)0.5(H2O)11.5",
+   "formula_charge": 0,
+   "mass_per_mole": {
+    "values": [
+     564.45928955078
+    ]
+   },
+   "name": "Hemicarbonate",
+   "sm_enthalpy": {
+    "units": [
+     "J/mol"
+    ],
+    "values": [
+     -8270000
+    ]
+   },
+   "sm_entropy_abs": {
+    "units": [
+     "J/(mol*K)"
+    ],
+    "values": [
+     712.62731933594
+    ]
+   },
+   "sm_gibbs_energy": {
+    "units": [
+     "J/mol"
+    ],
+    "values": [
+     -7336320.0
+    ]
+   },
+   "sm_heat_capacity_p": {
+    "errors": [
+     0
+    ],
+    "units": [
+     "J/(mol*K)"
+    ],
+    "values": [
+     905.79052734375
+    ]
+   },
+   "sm_volume": {
+    "errors": [
+     0
+    ],
+    "units": [
+     "J/bar"
+    ],
+    "values": [
+     28.451499938965
+    ]
+   },
+   "symbol": "hemicarbonate-g"
+  },
+  {
+   "Pst": 100000,
+   "TPMethods": [
+    {
+     "limitsTP": {
+      "lowerT": 273.15,
+      "range": true,
+      "upperT": 373.15
+     },
+     "m_heat_capacity_ft_coeffs": {
+      "names": [
+       "a0",
+       "a1",
+       "a2",
+       "a3",
+       "a4",
+       "a5",
+       "a6",
+       "a7",
+       "a8",
+       "a9",
+       "a10"
+      ],
+      "units": [
+       "J/(mol*K)",
+       "J/(mol*K^2)",
+       "(J*K)/mol",
+       "J/(mol*K^0.5)",
+       "J/(mol*K^3)",
+       "J/(mol*K^4)",
+       "J/(mol*K^5)",
+       "(J*K^2)/mol",
+       "J/mol",
+       "J/(mol*K^1.5)",
+       "J/(mol*K)"
+      ],
+      "values": [
+       175.15100097656,
+       2.5934898853302,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "method": {
+      "0": "cp_ft_equation"
+     }
+    },
+    {
+     "method": {
+      "34": "mv_constant"
+     }
+    }
+   ],
+   "Tst": 298.15,
+   "aggregate_state": {
+    "3": "AS_CRYSTAL"
+   },
+   "class_": {
+    "0": "SC_COMPONENT"
+   },
+   "datasources": [
+    "Cemdata18"
+   ],
+   "formula": "Ca4Al2SO10(H2O)12",
+   "formula_charge": 0,
+   "mass_per_mole": {
+    "values": [
+     622.51965332031
+    ]
+   },
+   "name": "Monosulphate12",
+   "sm_enthalpy": {
+    "units": [
+     "J/mol"
+    ],
+    "values": [
+     -8758632.7
+    ]
+   },
+   "sm_entropy_abs": {
+    "units": [
+     "J/(mol*K)"
+    ],
+    "values": [
+     791.57299804688
+    ]
+   },
+   "sm_gibbs_energy": {
+    "units": [
+     "J/mol"
+    ],
+    "values": [
+     -7778356.5
+    ]
+   },
+   "sm_heat_capacity_p": {
+    "errors": [
+     0
+    ],
+    "units": [
+     "J/(mol*K)"
+    ],
+    "values": [
+     948.40002441406
+    ]
+   },
+   "sm_volume": {
+    "errors": [
+     0
+    ],
+    "units": [
+     "J/bar"
+    ],
+    "values": [
+     31.01
+    ]
+   },
+   "symbol": "monosulphate12-g"
+  }
+ ]
+}
